@@ -1,0 +1,7 @@
+Players on Practice Team 1 Include (stats rating to the right):
+Brian 52.1
+Thomas 21.0
+
+Players on Practice Team 2 Include (stats rating to the right):
+Chris W 41.5
+Doug 40.5

@@ -1,0 +1,15 @@
+The players with the highest ratings who should start are:
+Brian with rating of 52.1
+Chris W with rating of 41.5
+
+Doug with rating of 40.5
+
+Thomas with rating of 21.0
+
+ with rating of 0.0
+
+ has the highest PPG, 0.0, and will start as shooting guard/guard 2.
+Brian has the highest RPG, 52.1, and will start as power forward.
+ has the highest APG, 0.0, and will start as point guard.
+ has the highest SPG, 0.0, and will start as tall guard/small forward.
+ has the highest BPG, 0.0, and will start as center.
